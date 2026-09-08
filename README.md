@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
+| [3895-count-digit-appearances](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
