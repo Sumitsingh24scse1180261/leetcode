@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3895-count-digit-appearances) |
 ## Backtracking
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
