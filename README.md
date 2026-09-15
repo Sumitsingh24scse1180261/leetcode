@@ -23,6 +23,7 @@
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Geometry
 |  |
