@@ -26,6 +26,7 @@
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -55,6 +56,7 @@
 | [0115-distinct-subsequences](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1092-shortest-common-supersequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Geometry
 |  |
@@ -63,5 +65,6 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
