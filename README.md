@@ -19,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -76,5 +78,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
