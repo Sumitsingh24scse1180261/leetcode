@@ -1,53 +1,60 @@
 class Solution {
 public:
-    string shortestCommonSupersequence(string str1, string str2) {
-        int n = str1.size();
-        int m = str2.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
-        for(int i = 0; i <= n; i++) {
-            dp[i][0] = i;
-        }
-        for(int j = 0; j <= m; j++) {
-            dp[0][j] = j;
-        }
-        for(int i = 1; i <= n; i++) {
-            for(int j = 1; j <= m; j++) {
+string a,b;
+vector<vector<int>> dp;
 
-                if(str1[i-1] == str2[j-1]) {
-                    dp[i][j] = 1 + dp[i-1][j-1];
-                }
-                else {
-                    dp[i][j] = 1 + min(dp[i-1][j], dp[i][j-1]);
-                }
-            }
-        }
-        string ans = "";
-        int i = n;
-        int j = m;
-        while(i > 0 && j > 0) {
-            if(str1[i-1] == str2[j-1]) {
-                ans += str1[i-1];
-                i--;
-                j--;
-            }
-            else if(dp[i-1][j] < dp[i][j-1]) {
-                ans += str1[i-1];
-                i--;
-            }
-            else {
-                ans += str2[j-1];
-                j--;
-            }
-        }
-        while(i > 0) {
-            ans += str1[i-1];
-            i--;
-        }
-        while(j > 0) {
-            ans += str2[j-1];
-            j--;
-        }
-        reverse(ans.begin(), ans.end());
-        return ans;
-    }
+int solve(int i,int j){
+if(i==a.size()) return b.size()-j;
+if(j==b.size()) return a.size()-i;
+
+if(dp[i][j]!=-1) return dp[i][j];
+
+if(a[i]==b[j])
+return dp[i][j]=1+solve(i+1,j+1);
+
+return dp[i][j]=1+min(solve(i+1,j),solve(i,j+1));
+}
+
+string shortestCommonSupersequence(string str1,string str2){
+a=str1;
+b=str2;
+
+int n=a.size();
+int m=b.size();
+
+dp.assign(n,vector<int>(m,-1));
+
+solve(0,0);
+
+string ans;
+int i=0,j=0;
+
+while(i<n&&j<m){
+if(a[i]==b[j]){
+ans+=a[i];
+i++;
+j++;
+}
+else if(solve(i+1,j)<=solve(i,j+1)){
+ans+=a[i];
+i++;
+}
+else{
+ans+=b[j];
+j++;
+}
+}
+
+while(i<n){
+ans+=a[i];
+i++;
+}
+
+while(j<m){
+ans+=b[j];
+j++;
+}
+
+return ans;
+}
 };
