@@ -62,6 +62,7 @@
 | [0010-regular-expression-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0115-distinct-subsequences) |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -88,4 +89,28 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
