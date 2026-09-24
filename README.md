@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
