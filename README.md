@@ -17,6 +17,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
