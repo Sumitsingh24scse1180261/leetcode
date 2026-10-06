@@ -15,6 +15,7 @@
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Binary Indexed Tree
 |  |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
