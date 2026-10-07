@@ -40,6 +40,7 @@
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
@@ -91,6 +92,7 @@
 | [0010-regular-expression-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0214-shortest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
