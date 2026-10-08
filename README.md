@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -46,6 +47,7 @@
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
@@ -64,6 +66,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -119,6 +122,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -194,4 +198,16 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
