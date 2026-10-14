@@ -63,6 +63,7 @@
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1278-palindrome-partitioning-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1563-stone-game-v](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 ## Math
@@ -109,6 +110,7 @@
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1278-palindrome-partitioning-iii) |
 ## Geometry
 |  |
 | ------- |
