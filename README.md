@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -47,6 +48,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
