@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
@@ -47,6 +48,7 @@
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 ## Simulation
 |  |
@@ -214,4 +218,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
