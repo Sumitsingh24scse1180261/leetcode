@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -207,6 +208,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 ## Simulation
@@ -229,5 +231,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
