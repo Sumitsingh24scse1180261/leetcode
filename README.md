@@ -20,6 +20,7 @@
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 ## Simulation
 |  |
@@ -233,8 +235,10 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
