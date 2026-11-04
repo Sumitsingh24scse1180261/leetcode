@@ -28,6 +28,7 @@
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1563-stone-game-v](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -45,6 +46,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0836-rectangle-overlap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1563-stone-game-v) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -243,6 +246,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,4 +255,5 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
