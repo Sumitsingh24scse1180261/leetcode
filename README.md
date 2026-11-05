@@ -22,6 +22,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -44,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 | [0904-fruit-into-baskets](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -247,6 +249,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -257,6 +260,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
