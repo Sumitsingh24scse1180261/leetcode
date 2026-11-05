@@ -32,6 +32,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1563-stone-game-v](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1626-best-team-with-no-conflicts) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -222,6 +223,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,4 +259,5 @@
 | [0904-fruit-into-baskets](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
