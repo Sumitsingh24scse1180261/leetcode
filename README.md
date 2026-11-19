@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
@@ -183,6 +184,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
@@ -196,6 +198,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Binary Indexed Tree
@@ -274,4 +277,12 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
