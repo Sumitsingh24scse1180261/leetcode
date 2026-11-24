@@ -38,6 +38,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3895-count-digit-appearances) |
@@ -95,6 +96,7 @@
 | [0836-rectangle-overlap](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1563-stone-game-v) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3895-count-digit-appearances) |
@@ -273,6 +275,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -285,4 +288,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
