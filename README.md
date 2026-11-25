@@ -26,6 +26,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -190,6 +191,7 @@
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Complete Knapsack
 |  |
@@ -204,6 +206,7 @@
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Binary Indexed Tree
