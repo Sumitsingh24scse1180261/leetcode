@@ -31,6 +31,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -189,6 +190,7 @@
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Binary Indexed Tree
 |  |
