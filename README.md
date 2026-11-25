@@ -20,6 +20,7 @@
 | [0486-predict-the-winner](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
@@ -77,6 +78,7 @@
 | [0494-target-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -191,6 +193,7 @@
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Complete Knapsack
@@ -205,6 +208,7 @@
 | [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
