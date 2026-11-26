@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
@@ -190,6 +191,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0322-coin-change) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0542-01-matrix) |
@@ -293,10 +296,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sumitsingh24scse1180261/leetcode/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
